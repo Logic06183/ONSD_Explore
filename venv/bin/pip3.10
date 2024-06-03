@@ -1,4 +1,4 @@
-#!/workspaces/ONSD_Explore/venv/bin/python
+#!/workspaces/ONSD_Explore/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
