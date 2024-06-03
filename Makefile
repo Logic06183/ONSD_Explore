@@ -16,7 +16,7 @@ NOTEBOOKS = \
     Transfer_Learning.ipynb
 
 # Default target
-all: setup run
+all: install run
 
 # Create virtual environment
 $(VENV_DIR):
@@ -45,10 +45,9 @@ help:
 	@echo ""
 	@echo "Usage:"
 	@echo "  make all       - Set up environment and run the notebooks"
-	@echo "  make setup     - Set up the environment"
 	@echo "  make install   - Install dependencies"
 	@echo "  make run       - Run the notebooks"
 	@echo "  make clean     - Clean up the environment"
 	@echo "  make help      - Display this help message"
 
-.PHONY: all setup install run clean help
+.PHONY: all install run clean help
