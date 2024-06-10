@@ -10,7 +10,8 @@ jupyter>=1.0
 Cython>=0.29
 #install openexcel#
 openpyxl>=3.0
-
+#install weights and biases#
+wandb>=0.12
 
 
 

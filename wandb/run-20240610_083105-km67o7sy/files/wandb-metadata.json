@@ -1,0 +1,49 @@
+{
+    "os": "Linux-6.5.0-1021-azure-x86_64-with-glibc2.36",
+    "python": "3.10.14",
+    "heartbeatAt": "2024-06-10T08:31:05.535510",
+    "startedAt": "2024-06-10T08:31:05.110976",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Logic06183/ONSD_Explore",
+        "commit": "46600779c3fcbca7978a6585f370d775b0fd49ba"
+    },
+    "email": "71184326+Logic06183@users.noreply.github.com",
+    "root": "/workspaces/ONSD_Explore",
+    "host": "codespaces-9c10a1",
+    "username": "vscode",
+    "executable": "/workspaces/ONSD_Explore/venv/bin/python",
+    "cpu_count": 1,
+    "cpu_count_logical": 2,
+    "cpu_freq": {
+        "current": 3127.8485,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3134.365,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3121.332,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 31.32598876953125,
+            "used": 8.05465316772461
+        }
+    },
+    "memory": {
+        "total": 7.74371337890625
+    }
+}
