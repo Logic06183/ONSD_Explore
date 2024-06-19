@@ -1,0 +1,6 @@
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+ndarray = "0.15"
+ndarray-rand = "0.13"
+rusty-machine = "0.5.0"
