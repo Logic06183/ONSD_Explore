@@ -1,0 +1,12 @@
+[package]
+name = "gp_grid_search"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+ndarray = "0.15.3"
+rusty-machine = "0.5.2"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+

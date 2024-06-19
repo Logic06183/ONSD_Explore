@@ -12,6 +12,10 @@ Cython>=0.29
 openpyxl>=3.0
 #install weights and biases#
 wandb>=0.12
+#install xgboost#
+xgboost>=1.4
+#install pingouin
+pingouin>=0.4
 
 
 
