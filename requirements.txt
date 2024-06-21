@@ -16,6 +16,13 @@ wandb>=0.12
 xgboost>=1.4
 #install pingouin
 pingouin>=0.4
+#install seaborn
+seaborn>=0.11
+#install statsmodels
+statsmodels>=0.12
+#install scikit-plot
+scikit-plot>=0.3
+
 
 
 
