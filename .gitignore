@@ -105,5 +105,4 @@ cython_debug/
 *.bmp
 *.svg
 
-# Ignore specific directories
-documents/
+
