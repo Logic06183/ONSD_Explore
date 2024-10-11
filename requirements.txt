@@ -19,3 +19,11 @@ imgaug
 scikit-image
 logging
 warnings
+numpy
+pandas
+matplotlib
+scikit-learn
+scikit-image
+tensorflow
+xgboost
+opencv-python
